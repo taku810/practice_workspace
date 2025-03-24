@@ -17,7 +17,7 @@ Gitマスター目指して、頑張りましょう！
     ```bash
     git clone https://github.com/taku810/practice_workspace.git
     ```
-2.  `src/`フォルダで修行開始！
+2.  それぞれの`project\`フォルダで修行開始！
 
 ## 師範からの一言
 
